@@ -1,0 +1,7 @@
+{
+    "/api/*": {
+      "target": "https://hello-world-rest-api-full-stack.azurewebsites.net",
+      "secure": false,
+      "changeOrigin": true
+    }
+  }
